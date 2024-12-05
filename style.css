@@ -8741,10 +8741,10 @@ select.form-control {
     }
 }
 @font-face {
-    font-family:"yekan-b";
+    font-family:yekan-b;
     src: url(Fonts/YekanBakh-Bold.woff);
 }
 a
 {
-    font-family: "yekan-b";
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
