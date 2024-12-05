@@ -365,7 +365,8 @@
 }
 
 .fa-imdb:before {
-    content: ""
+    /* content: "" */
+    mask-image: url(img/IMDb.png);
 }
 
 .fa-info:before {
