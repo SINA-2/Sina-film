@@ -262,7 +262,7 @@
 
 @font-face {
     font-family: "font-awesome";
-    src: url(Fonts/font-awesome.ttf)format("truetype"),url(Fonts/font-awesome.ttf)format("woff"),url(Fonts/font-awesome.ttf)format("svg");
+    src: url(Fonts/font-awesome.ttf)format("truetype"),url(Fonts/YekanBakh-Bold.woff)format("woff"),url(Fonts/font-awesome.ttf)format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block
@@ -365,8 +365,7 @@
 }
 
 .fa-imdb:before {
-    /* content: "" */
-    mask-image: url(img/IMDb.png);
+    content: ""
 }
 
 .fa-info:before {
