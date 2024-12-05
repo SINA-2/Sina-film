@@ -8748,3 +8748,11 @@ a
 {
     font-family:Yekan;
 }
+@font-face {
+    font-family: Yekan-2;
+    src: url(Fonts/font-awesome.ttf);
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-family: Yekan-2;
+}
