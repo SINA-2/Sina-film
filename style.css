@@ -8740,3 +8740,11 @@ select.form-control {
         --gradient-to: rgb(42 23 15) var(--gradient-to-position)
     }
 }
+@font-face {
+    font-family:"yekan-b";
+    src: url(Fonts/YekanBakh-Bold.woff);
+}
+a
+{
+    font-family: "yekan-b";
+}
