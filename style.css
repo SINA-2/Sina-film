@@ -1,8 +1,7 @@
 /*!
 	Theme Name: psychowide
-	Theme URI: https://zardfilm.in
 	Description: A plain-vanilla & lightweight theme
-	Author: SMostafa.ir
+	Author: Sina
 	Version: 2.0.0
 */
 [name="categories[]"]+label {
@@ -263,7 +262,7 @@
 
 @font-face {
     font-family: "font-awesome";
-    src: url(fonts/font-awesome.ttf?6)format("truetype"),url(fonts/font-awesome.woff?6)format("woff"),url(fonts/font-awesome.svg?6#font-awesome)format("svg");
+    src: url(Fonts/font-awesome.ttf)format("truetype"),url(Fonts/font-awesome.ttf)format("woff"),url(Fonts/font-awesome.ttf)format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block
